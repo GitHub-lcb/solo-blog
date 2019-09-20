@@ -10,7 +10,7 @@ GitHub-lcb 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.happylcb.club/hello-solo)
+* [世界，你好！](http://jd.happylcb.club/hello-solo)
 
 
 
