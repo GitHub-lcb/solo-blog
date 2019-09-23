@@ -10,6 +10,8 @@ GitHub-lcb 的个人博客
 
 ### 最新
 
+* [Java面试资料整理](http://www.happylcb.club/articles/2019/09/23/1569248769693.html)
+* [idea 2019.2.2,2019.2.1,2019.1 各版本踩坑](http://www.happylcb.club/articles/2019/09/23/1569243745426.html)
 * [世界，你好！](http://www.happylcb.club/hello-solo)
 
 
