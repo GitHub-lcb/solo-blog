@@ -1,18 +1,17 @@
-<p align="center"><img alt="GitHub-lcb 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-GitHub-lcb 的个人博客
+<p align="center"><img alt="小博子的博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+小博子的博客
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="GitHub-lcb 的个人博客" target="_blank" href="https://github.com/GitHub-lcb/solo-blog"><img src="https://img.shields.io/github/last-commit/GitHub-lcb/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="小博子的博客" target="_blank" href="https://github.com/GitHub-lcb/solo-blog"><img src="https://img.shields.io/github/last-commit/GitHub-lcb/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/GitHub-lcb/solo-blog"><img src="https://img.shields.io/github/repo-size/GitHub-lcb/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/GitHub-lcb/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [Java面试资料整理](http://www.happylcb.club/articles/2019/09/23/1569248769693.html)
-* [idea 2019.2.2,2019.2.1,2019.1 各版本踩坑](http://www.happylcb.club/articles/2019/09/23/1569243745426.html)
-* [世界，你好！](http://www.happylcb.club/hello-solo)
+* [Java面试资料整理](https://www.happylcb.club/articles/2019/09/24/1569302954793.html)
+* [世界，你好！](https://www.happylcb.club/hello-solo)
 
 
 
