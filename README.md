@@ -10,8 +10,8 @@
 
 ### 最新
 
+* [compare make beauty (001 to 010)](https://www.happylcb.club/articles/2019/09/25/1569423162903.html)
 * [Java面试资料整理](https://www.happylcb.club/articles/2019/09/24/1569302954793.html)
-* [世界，你好！](https://www.happylcb.club/hello-solo)
 
 
 
