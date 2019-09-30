@@ -2,7 +2,7 @@
 小博子的博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">每一个不曾起舞的日子,都是对生命的辜负.</h4>
 <p align="center"><a title="小博子的博客" target="_blank" href="https://github.com/GitHub-lcb/solo-blog"><img src="https://img.shields.io/github/last-commit/GitHub-lcb/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/GitHub-lcb/solo-blog"><img src="https://img.shields.io/github/repo-size/GitHub-lcb/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [compare make beauty (011 to 020)](https://www.happylcb.club/articles/2019/09/29/1569772563489.html)
 * [compare make beauty (001 to 010)](https://www.happylcb.club/articles/2019/09/25/1569423162903.html)
 * [Java面试资料整理](https://www.happylcb.club/articles/2019/09/24/1569302954793.html)
 
